@@ -1,4 +1,3 @@
-
 Day 3 project of the 100 Days of Code: Python Challenge.
 <br/>A very short and simple 'Choose your own adventure' style interactive story peice.
 <br/>The main use for this was to practice a bunch of the simple functions I've learned,
